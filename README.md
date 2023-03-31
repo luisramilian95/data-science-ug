@@ -18,4 +18,4 @@ El contenido del laboratorio se encuentra dentro del archivo [laboratorio-3.ipyn
 
 
 
-El contenido del laboratorio se encuentra dentro del archivo [main.ipynb](project-1/main.ipynb). 
+El contenido del proyecto se encuentra dentro del archivo [main.ipynb](project-1/main.ipynb). 
