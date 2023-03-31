@@ -3,7 +3,9 @@
 
 ## Labotatorio 2
 
+
 El contenido del laboratorio se encuentra dentro del archivo [laboratorio-2.ipynb](lab-2/laboratorio-2.ipynb). 
+
 --- 
 
 ## Laboratorio 3
